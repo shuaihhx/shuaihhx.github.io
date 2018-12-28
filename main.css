@@ -1,0 +1,23 @@
+#firstPage{
+    height:750px; width:100%;
+    background-color:#F0F8FF;
+    font-size: 100px;
+    text-align: center;
+}
+
+.button {
+
+    display: inline-block;
+    position: relative;
+    top:30%;
+    background:#48D1CC;
+    color: #fff;
+    border-radius: 0.5em;
+    padding: 0.65em 1em 0.65em 1em;
+    font-weight: 400;
+
+
+
+
+
+}
